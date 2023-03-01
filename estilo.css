@@ -1,0 +1,15 @@
+body{
+    background-image: url("img/b.gif");
+    text-align: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 150px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 150px;
+}
+
+button{
+    background-color: black;
+    color: white;
+}
